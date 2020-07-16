@@ -1,2 +1,1 @@
 This is myfile which I created in github
-added second line
